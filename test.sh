@@ -1,6 +1,5 @@
 #!/bin/sh
 
-echo "welcome"
 
 echo "who login into the system:`whoami`"
 
